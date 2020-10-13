@@ -22,6 +22,16 @@ namespace TicketDSJ
                             "~/Scripts/WebForms/TreeView.js",
                             "~/Scripts/WebForms/WebParts.js"));
 
+
+            bundles.Add(new ScriptBundle("~/bundles/WebFormsJs").Include(
+                           "~/Scripts/WebForms/WebForms.js",
+                           "~/Scripts/WebForms/WebUIValidation.js",
+                           "~/Scripts/WebForms/MenuStandards.js",
+                           "~/Scripts/WebForms/Focus.js",
+                           "~/Scripts/WebForms/GridView.js",
+                           "~/Scripts/WebForms/DetailsView.js",
+                           "~/Scripts/WebForms/TreeView.js",
+                           "~/Scripts/WebForms/WebParts.js"));
             // Order is very important for these files to work, they have explicit dependencies
             bundles.Add(new ScriptBundle("~/bundles/MsAjaxJs").Include(
                     "~/Scripts/WebForms/MsAjax/MicrosoftAjax.js",

@@ -1,0 +1,5 @@
+C:\Users\AMD A12\source\repos\TicketDSJ\SQL\bin\Debug\netstandard2.0\HLP.deps.json
+C:\Users\AMD A12\source\repos\TicketDSJ\SQL\bin\Debug\netstandard2.0\HLP.dll
+C:\Users\AMD A12\source\repos\TicketDSJ\SQL\obj\Debug\netstandard2.0\HLP.csprojAssemblyReference.cache
+C:\Users\AMD A12\source\repos\TicketDSJ\SQL\obj\Debug\netstandard2.0\HLP.AssemblyInfoInputs.cache
+C:\Users\AMD A12\source\repos\TicketDSJ\SQL\obj\Debug\netstandard2.0\HLP.AssemblyInfo.cs

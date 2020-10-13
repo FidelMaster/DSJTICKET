@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDSJ", "TicketDSJ\TicketDSJ.csproj", "{60B4EFCD-DA40-4EFD-BE52-67FF35A12806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLP", "SQL\HLP.csproj", "{88E9143B-2243-4218-8C3C-74F11BC2E4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENTIDAD", "ENTIDAD\ENTIDAD.csproj", "{9263D62B-7BBB-472A-8866-BCCEED23F75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{60B4EFCD-DA40-4EFD-BE52-67FF35A12806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60B4EFCD-DA40-4EFD-BE52-67FF35A12806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60B4EFCD-DA40-4EFD-BE52-67FF35A12806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E9143B-2243-4218-8C3C-74F11BC2E4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E9143B-2243-4218-8C3C-74F11BC2E4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E9143B-2243-4218-8C3C-74F11BC2E4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E9143B-2243-4218-8C3C-74F11BC2E4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9263D62B-7BBB-472A-8866-BCCEED23F75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9263D62B-7BBB-472A-8866-BCCEED23F75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9263D62B-7BBB-472A-8866-BCCEED23F75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9263D62B-7BBB-472A-8866-BCCEED23F75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

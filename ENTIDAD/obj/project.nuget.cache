@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4bMk6xMFq6gOGTHd6Nsau9oN2ZJTRkwxHyWa5g43Y2HzSY4dy/1m8Eqv268hOph7T/L4nVZQ0h38QcxG2s6dEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD A12\\source\\repos\\TicketDSJ\\ENTIDAD\\ENTIDAD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD A12\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AMD A12\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
